@@ -3,7 +3,7 @@
 </p>
 
 # Couresera-Deep-Learning
-Assignments and projects for all five courses of the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) from [deeplearning.ai's](https://www.deeplearning.ai/) on Coursera.
+Assignments and projects for all five courses of the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) from [deeplearning.ai's](https://www.deeplearning.ai/) on [Coursera](https://www.coursera.org/).
 
 ![Build Status](https://img.shields.io/badge/build-Stable-green.svg)
 ![License](https://img.shields.io/badge/license-DO_WHATEVER_YOU_WANT-green.svg)
