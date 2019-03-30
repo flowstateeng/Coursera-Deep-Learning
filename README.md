@@ -2,7 +2,7 @@
   <img src='https://github.com/chivingtoninc/Coursera-Deep-Learning/blob/master/imgs/deeplearning-logo.png' alt='deeplearning.ai logo' />
 </p>
 
-# Couresera-Deep-Learning
+# Coursera-Deep-Learning
 Assignments and projects for all five courses of the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) from [deeplearning.ai's](https://www.deeplearning.ai/) on [Coursera](https://www.coursera.org/).
 
 ![Build Status](https://img.shields.io/badge/build-Stable-green.svg)
@@ -10,26 +10,26 @@ Assignments and projects for all five courses of the [Deep Learning Specializati
 <br/><br/><br/>
 
 ## Contents
-* [Installation](https://github.com/chivingtoninc/Couresera-Deep-Learning#installation)
-* [Testing](https://github.com/chivingtoninc/Couresera-Deep-Learning#testing)
-* [Usage](https://github.com/chivingtoninc/Couresera-Deep-Learning#usage)
-* [Authors](https://github.com/chivingtoninc/Couresera-Deep-Learning#authors)
-* [Contributing](https://github.com/chivingtoninc/Couresera-Deep-Learning#contributing)
-* [Acknowledgments](https://github.com/chivingtoninc/Couresera-Deep-Learning#acknowledgments)
-* [License](https://github.com/chivingtoninc/Couresera-Deep-Learning#license)
+* [Installation](https://github.com/chivingtoninc/Coursera-Deep-Learning#installation)
+* [Testing](https://github.com/chivingtoninc/Coursera-Deep-Learning#testing)
+* [Usage](https://github.com/chivingtoninc/Coursera-Deep-Learning#usage)
+* [Authors](https://github.com/chivingtoninc/Coursera-Deep-Learning#authors)
+* [Contributing](https://github.com/chivingtoninc/Coursera-Deep-Learning#contributing)
+* [Acknowledgments](https://github.com/chivingtoninc/Coursera-Deep-Learning#acknowledgments)
+* [License](https://github.com/chivingtoninc/Coursera-Deep-Learning#license)
 <br/>
 
 
 ## Installation
 ```
   cd /path/to/where/you/want/it
-  git clone https://github.com/chivingtoninc/Couresera-Deep-Learning.git
+  git clone https://github.com/chivingtoninc/Coursera-Deep-Learning.git
 ```
 
 ## Testing
-Navigate to the Couresera-Deep-Learning directory and run.
+Navigate to the Coursera-Deep-Learning directory and run.
 ```
-  cd /path/to/Couresera-Deep-Learning/some/project
+  cd /path/to/Coursera-Deep-Learning/some/project
   python someProject.py
 ```
 <br/>
@@ -53,5 +53,5 @@ Not currently accepting outside contributors, but feel free to clone, fork, modi
    * Thank you to [Dr. Li](http://vision.stanford.edu/feifeili/), [Andrej Karpathy](https://cs.stanford.edu/people/karpathy/), [Justin Johnson](https://cs.stanford.edu/people/jcjohns/), [Serena Yeung](http://ai.stanford.edu/~syyeung/), and all of the many TA's and other staff who have made this content open to the public!
 
 ## License
-This project is licensed under the DO_WHATEVER_YOU_WANT License - see the [LICENSE](https://github.com/chivingtoninc/Couresera-Deep-Learning/blob/master/LICENSE) file for details
+This project is licensed under the DO_WHATEVER_YOU_WANT License - see the [LICENSE](https://github.com/chivingtoninc/Coursera-Deep-Learning/blob/master/LICENSE) file for details
 <br/><br/>
