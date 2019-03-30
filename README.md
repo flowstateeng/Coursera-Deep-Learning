@@ -1,9 +1,9 @@
 <p align="center">
-  <img src='https://github.com/chivingtoninc/Couresera-Deep-Learning/blob/master/imgs/deeplearning-logo.png' alt='deeplearning.ai logo' />
+  <img src='https://github.com/chivingtoninc/Coursera-Deep-Learning/blob/master/imgs/deeplearning-logo.png' alt='deeplearning.ai logo' />
 </p>
 
 # Couresera-Deep-Learning
-Assignments and projects for all five courses of [deeplearning.ai's](https://www.deeplearning.ai/) [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) on Coursera.
+Assignments and projects for all five courses of the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) from [deeplearning.ai's](https://www.deeplearning.ai/) on Coursera.
 
 ![Build Status](https://img.shields.io/badge/build-Stable-green.svg)
 ![License](https://img.shields.io/badge/license-DO_WHATEVER_YOU_WANT-green.svg)
