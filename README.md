@@ -35,7 +35,7 @@ Navigate to the Couresera-Deep-Learning directory and run.
 <br/>
 
 ## Usage
-This repo should be used as a reference while taking Couresera-Deep-Learning.
+This repo should be used as a reference while taking the Deep Learning Specialization on Couresera.
 
 Familiarity with general Python is assumed. Numpy is covered but if you'd like more a in-depth refresher, here is a great [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/) by [Justin Johnson](https://cs.stanford.edu/people/jcjohns/).
 
