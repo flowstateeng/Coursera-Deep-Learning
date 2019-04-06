@@ -1,23 +1,24 @@
 <p align="center">
-  <img src='https://github.com/chivingtoninc/Coursera-Deep-Learning/blob/master/imgs/deeplearning-logo.png' alt='deeplearning.ai logo' />
+  <img src='https://github.com/chivingtoninc/Coursera-Deep-Learning/blob/master/1-NNs-and-Deep-Learning/imgs/NNs-and-Deep-Learning-logo.png' alt='1-Neural Networks and Deep Learning logo' />
 </p>
 
-# Coursera-Deep-Learning
+# Neural Networks and Deep Learning
+If you want to break into cutting-edge AI, this course will help you do so. Deep learning engineers are highly sought after, and mastering deep learning will give you numerous new career opportunities. Deep learning is also a new "superpower" that will let you build AI systems that just weren't possible a few years ago.
+
+In this course, you will learn the foundations of deep learning. When you finish this class, you will:
+ - Understand the major technology trends driving Deep Learning
+ - Be able to build, train and apply fully connected deep neural networks
+ - Know how to implement efficient (vectorized) neural networks
+ - Understand the key parameters in a neural network's architecture This course also teaches you how Deep Learning actually works, rather than presenting only a cursory or surface-level description.
+
+So after completing it, you will be able to apply deep learning to a your own applications. If you are looking for a job in AI, after this course you will also be able to answer basic interview questions.
+
+This is the first course of the Deep Learning Specialization.
+
 Assignments and projects for all five courses of the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) from [deeplearning.ai's](https://www.deeplearning.ai/) on [Coursera](https://www.coursera.org/).
 
 ![Build Status](https://img.shields.io/badge/build-Stable-green.svg)
 ![License](https://img.shields.io/badge/license-DO_WHATEVER_YOU_WANT-green.svg)
-
-### Course Description:
-If you want to break into AI, this Specialization will help you do so. Deep Learning is one of the most highly sought after skills in tech. We will help you become good at Deep Learning.
-
-In five courses, you will learn the foundations of Deep Learning, understand how to build neural networks, and learn how to lead successful machine learning projects. You will learn about Convolutional networks, RNNs, LSTM, Adam, Dropout, BatchNorm, Xavier/He initialization, and more. You will work on case studies from healthcare, autonomous driving, sign language reading, music generation, and natural language processing. You will master not only the theory, but also see how it is applied in industry. You will practice all these ideas in Python and in TensorFlow, which we will teach.
-
-You will also hear from many top leaders in Deep Learning, who will share with you their personal stories and give you career advice.
-
-AI is transforming multiple industries. After finishing this specialization, you will likely find creative ways to apply it to your work.
-
-We will help you master Deep Learning, understand how to apply it, and build a career in AI.
 <br/><br/><br/>
 
 ## Contents
