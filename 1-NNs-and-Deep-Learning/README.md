@@ -17,7 +17,7 @@ In this course, you will learn the foundations of deep learning. When you finish
 So after completing it, you will be able to apply deep learning to a your own applications. If you are looking for a job in AI, after this course you will also be able to answer basic interview questions.
 
 This is the first course of the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) from [deeplearning.ai](https://www.deeplearning.ai/) on [Coursera](https://www.coursera.org/).
-<br/><br/><br/>
+<br/><br/>
 
 ## Contents
 * [Usage](https://github.com/chivingtoninc/Coursera-Deep-Learning/tree/master/1-NNs-and-Deep-Learning#usage)
