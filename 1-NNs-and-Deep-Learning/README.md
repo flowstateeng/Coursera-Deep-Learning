@@ -3,6 +3,9 @@
 </p>
 
 # Neural Networks and Deep Learning
+![Build Status](https://img.shields.io/badge/build-Stable-green.svg)
+![License](https://img.shields.io/badge/license-DO_WHATEVER_YOU_WANT-green.svg)
+
 If you want to break into cutting-edge AI, this course will help you do so. Deep learning engineers are highly sought after, and mastering deep learning will give you numerous new career opportunities. Deep learning is also a new "superpower" that will let you build AI systems that just weren't possible a few years ago.
 
 In this course, you will learn the foundations of deep learning. When you finish this class, you will:
@@ -14,34 +17,14 @@ In this course, you will learn the foundations of deep learning. When you finish
 So after completing it, you will be able to apply deep learning to a your own applications. If you are looking for a job in AI, after this course you will also be able to answer basic interview questions.
 
 This is the first course of the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) from [deeplearning.ai](https://www.deeplearning.ai/) on [Coursera](https://www.coursera.org/).
-
-![Build Status](https://img.shields.io/badge/build-Stable-green.svg)
-![License](https://img.shields.io/badge/license-DO_WHATEVER_YOU_WANT-green.svg)
 <br/><br/><br/>
 
 ## Contents
-* [Installation](https://github.com/chivingtoninc/Coursera-Deep-Learning#installation)
-* [Testing](https://github.com/chivingtoninc/Coursera-Deep-Learning#testing)
-* [Usage](https://github.com/chivingtoninc/Coursera-Deep-Learning#usage)
-* [Authors](https://github.com/chivingtoninc/Coursera-Deep-Learning#authors)
-* [Contributing](https://github.com/chivingtoninc/Coursera-Deep-Learning#contributing)
-* [Acknowledgments](https://github.com/chivingtoninc/Coursera-Deep-Learning#acknowledgments)
-* [License](https://github.com/chivingtoninc/Coursera-Deep-Learning#license)
-<br/>
-
-
-## Installation
-```
-  cd /path/to/where/you/want/it
-  git clone https://github.com/chivingtoninc/Coursera-Deep-Learning.git
-```
-
-## Testing
-Navigate to the Coursera-Deep-Learning directory and run.
-```
-  cd /path/to/Coursera-Deep-Learning/some/project
-  python someProject.py
-```
+* [Usage](https://github.com/chivingtoninc/Coursera-Deep-Learning/tree/master/1-NNs-and-Deep-Learning#usage)
+* [Authors](https://github.com/chivingtoninc/Coursera-Deep-Learning/tree/master/1-NNs-and-Deep-Learning#authors)
+* [Contributing](https://github.com/chivingtoninc/Coursera-Deep-Learning/tree/master/1-NNs-and-Deep-Learning#contributing)
+* [Acknowledgments](https://github.com/chivingtoninc/Coursera-Deep-Learning/tree/master/1-NNs-and-Deep-Learning#acknowledgments)
+* [License](https://github.com/chivingtoninc/Coursera-Deep-Learning/tree/master/1-NNs-and-Deep-Learning#license)
 <br/>
 
 ## Usage
