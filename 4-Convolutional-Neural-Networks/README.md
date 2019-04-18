@@ -1,30 +1,28 @@
 <p align="center">
-  <img src='https://github.com/chivingtoninc/Coursera-Deep-Learning/blob/master/1-NNs-and-Deep-Learning/imgs/NNs-and-Deep-Learning-logo.png' alt='1-Neural Networks and Deep Learning logo' />
+  <img src='https://github.com/chivingtoninc/Coursera-Deep-Learning/imgs/Convolutional-Neural-Networks.jpeg' alt='Convolutional-Neural-Networks logo' />
 </p>
 
-# Neural Networks and Deep Learning
+# Convolutional-Neural-Networks
 ![Build Status](https://img.shields.io/badge/build-Stable-green.svg)
 ![License](https://img.shields.io/badge/license-DO_WHATEVER_YOU_WANT-green.svg)
 
-If you want to break into cutting-edge AI, this course will help you do so. Deep learning engineers are highly sought after, and mastering deep learning will give you numerous new career opportunities. Deep learning is also a new "superpower" that will let you build AI systems that just weren't possible a few years ago.
+This course will teach you how to build convolutional neural networks and apply it to image data. Thanks to deep learning, computer vision is working far better than just two years ago, and this is enabling numerous exciting applications ranging from safe autonomous driving, to accurate face recognition, to automatic reading of radiology images.
 
-In this course, you will learn the foundations of deep learning. When you finish this class, you will:
- - Understand the major technology trends driving Deep Learning
- - Be able to build, train and apply fully connected deep neural networks
- - Know how to implement efficient (vectorized) neural networks
- - Understand the key parameters in a neural network's architecture This course also teaches you how Deep Learning actually works, rather than presenting only a cursory or surface-level description.
-
-So after completing it, you will be able to apply deep learning to a your own applications. If you are looking for a job in AI, after this course you will also be able to answer basic interview questions.
+You will:
+- Understand how to build a convolutional neural network, including recent variations such as residual networks.
+- Know how to apply convolutional networks to visual detection and recognition tasks.
+- Know to use neural style transfer to generate art.
+- Be able to apply these algorithms to a variety of image, video, and other 2D or 3D data.
 
 This is the first course of the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) from [deeplearning.ai](https://www.deeplearning.ai/) on [Coursera](https://www.coursera.org/).
 <br/><br/>
 
 ## Contents
-* [Usage](https://github.com/chivingtoninc/Coursera-Deep-Learning/tree/master/1-NNs-and-Deep-Learning#usage)
-* [Authors](https://github.com/chivingtoninc/Coursera-Deep-Learning/tree/master/1-NNs-and-Deep-Learning#authors)
-* [Contributing](https://github.com/chivingtoninc/Coursera-Deep-Learning/tree/master/1-NNs-and-Deep-Learning#contributing)
-* [Acknowledgments](https://github.com/chivingtoninc/Coursera-Deep-Learning/tree/master/1-NNs-and-Deep-Learning#acknowledgments)
-* [License](https://github.com/chivingtoninc/Coursera-Deep-Learning/tree/master/1-NNs-and-Deep-Learning#license)
+* [Usage](https://github.com/chivingtoninc/Coursera-Deep-Learning/tree/master/3-Convolutional-Neural-Networks#usage)
+* [Authors](https://github.com/chivingtoninc/Coursera-Deep-Learning/tree/master/3-Convolutional-Neural-Networks#authors)
+* [Contributing](https://github.com/chivingtoninc/Coursera-Deep-Learning/tree/master/3-Convolutional-Neural-Networks#contributing)
+* [Acknowledgments](https://github.com/chivingtoninc/Coursera-Deep-Learning/tree/master/3-Convolutional-Neural-Networks#acknowledgments)
+* [License](https://github.com/chivingtoninc/Coursera-Deep-Learning/tree/master/3-Convolutional-Neural-Networks#license)
 <br/>
 
 ## Usage
