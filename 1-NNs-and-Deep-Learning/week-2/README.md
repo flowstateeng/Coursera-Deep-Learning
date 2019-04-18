@@ -8,7 +8,7 @@
 
 Assignments and projects for week two of [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning). This is the first course of the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) from [deeplearning.ai](https://www.deeplearning.ai/) on [Coursera](https://www.coursera.org/).
 
-# Learning Objectives
+## Learning Objectives
 * Build a logistic regression model, structured as a shallow neural network
 * Implement the main steps of an ML algorithm, including making predictions, derivative computation, and gradient descent.
 * Implement computationally efficient, highly vectorized, versions of models.

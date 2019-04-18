@@ -8,7 +8,7 @@
 
 Assignments and projects for week four of [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning). This is the first course of the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) from [deeplearning.ai](https://www.deeplearning.ai/) on [Coursera](https://www.coursera.org/).
 
-# Learning Objectives
+## Learning Objectives
 * See deep neural networks as successive blocks put one after each other
 * Build and train a deep L-layer Neural Network
 * Analyze matrix and vector dimensions to check neural network implementations.

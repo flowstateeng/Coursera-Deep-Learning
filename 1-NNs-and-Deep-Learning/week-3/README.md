@@ -8,7 +8,7 @@
 
 Assignments and projects for week three of [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning). This is the first course of the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) from [deeplearning.ai](https://www.deeplearning.ai/) on [Coursera](https://www.coursera.org/).
 
-# Learning Objectives
+## Learning Objectives
 * Understand hidden units and hidden layers
 * Be able to apply a variety of activation functions in a neural network.
 * Build your first forward and backward propagation with a hidden layer
