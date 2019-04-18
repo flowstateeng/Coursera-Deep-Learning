@@ -1,7 +1,3 @@
-<p align="center">
-  <img src='https://github.com/chivingtoninc/Coursera-Deep-Learning/blob/master/1-NNs-and-Deep-Learning/imgs/NNs-and-Deep-Learning-logo.png' alt='1-Neural Networks and Deep Learning logo' />
-</p>
-
 # Neural Networks and Deep Learning (week 3)
 ![Build Status](https://img.shields.io/badge/build-Stable-green.svg)
 ![License](https://img.shields.io/badge/license-DO_WHATEVER_YOU_WANT-green.svg)

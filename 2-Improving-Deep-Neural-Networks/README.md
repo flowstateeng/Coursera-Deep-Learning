@@ -1,5 +1,5 @@
 <p align="center">
-  <img src='https://github.com/chivingtoninc/Coursera-Deep-Learning/imgs/Improving-Deep-Neural-Networks.jpeg' alt='Improving-Deep-Neural-Networks logo' />
+  <img src='https://github.com/chivingtoninc/Coursera-Deep-Learning/blob/master/imgs/Improving-Deep-Neural-Networks.jpeg' alt='Improving-Deep-Neural-Networks logo' />
 </p>
 
 # Improving-Deep-Neural-Networks
