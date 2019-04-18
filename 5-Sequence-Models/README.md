@@ -1,5 +1,5 @@
 <p align="center">
-  <img src='https://github.com/chivingtoninc/Coursera-Deep-Learning/blob/master/imgs/Sequence-Models.jpeg' alt='Sequence-Models logo' />
+  <img height='500' width='500' src='https://github.com/chivingtoninc/Coursera-Deep-Learning/blob/master/imgs/Sequence-Models.jpeg' alt='Sequence-Models logo' />
 </p>
 
 # Sequence-Models

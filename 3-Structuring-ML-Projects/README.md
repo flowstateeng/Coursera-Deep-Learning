@@ -1,5 +1,5 @@
 <p align="center">
-  <img src='https://github.com/chivingtoninc/Coursera-Deep-Learning/blob/master/imgs/Structuring-Machine-Learning-Projects.jpeg' alt='Structuring-Machine-Learning-Projects logo' />
+  <img height='500' width='500' src='https://github.com/chivingtoninc/Coursera-Deep-Learning/blob/master/imgs/Structuring-Machine-Learning-Projects.jpeg' alt='Structuring-Machine-Learning-Projects logo' />
 </p>
 
 # Structuring-Machine-Learning-Projects
