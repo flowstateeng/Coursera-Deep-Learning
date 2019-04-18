@@ -7,6 +7,14 @@
 ![License](https://img.shields.io/badge/license-DO_WHATEVER_YOU_WANT-green.svg)
 
 Assignments and projects for week three of [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning). This is the first course of the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) from [deeplearning.ai](https://www.deeplearning.ai/) on [Coursera](https://www.coursera.org/).
+
+# Learning Objectives
+* Understand hidden units and hidden layers
+* Be able to apply a variety of activation functions in a neural network.
+* Build your first forward and backward propagation with a hidden layer
+* Apply random initialization to your neural network
+* Become fluent with Deep Learning notations and Neural Network Representations
+* Build and train a neural network with one hidden layer.
 <br/><br/>
 
 ## Contents
