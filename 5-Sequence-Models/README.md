@@ -1,5 +1,5 @@
 <p align="center">
-  <img src='https://github.com/chivingtoninc/Coursera-Deep-Learning/imgs/Sequence-Models.jpeg' alt='Sequence-Models logo' />
+  <img src='https://github.com/chivingtoninc/Coursera-Deep-Learning/blob/master/imgs/Sequence-Models.jpeg' alt='Sequence-Models logo' />
 </p>
 
 # Sequence-Models
@@ -19,11 +19,11 @@ deeplearning.ai is also partnering with the NVIDIA Deep Learning Institute (DLI)
 <br/><br/>
 
 ## Contents
-* [Usage](https://github.com/chivingtoninc/Coursera-Deep-Learning/tree/master/2-Sequence-Models#usage)
-* [Authors](https://github.com/chivingtoninc/Coursera-Deep-Learning/tree/master/2-Sequence-Models#authors)
-* [Contributing](https://github.com/chivingtoninc/Coursera-Deep-Learning/tree/master/2-Sequence-Models#contributing)
-* [Acknowledgments](https://github.com/chivingtoninc/Coursera-Deep-Learning/tree/master/2-Sequence-Models#acknowledgments)
-* [License](https://github.com/chivingtoninc/Coursera-Deep-Learning/tree/master/2-Sequence-Models#license)
+* [Usage](https://github.com/chivingtoninc/Coursera-Deep-Learning/tree/master/5-Sequence-Models#usage)
+* [Authors](https://github.com/chivingtoninc/Coursera-Deep-Learning/tree/master/5-Sequence-Models#authors)
+* [Contributing](https://github.com/chivingtoninc/Coursera-Deep-Learning/tree/master/5-Sequence-Models#contributing)
+* [Acknowledgments](https://github.com/chivingtoninc/Coursera-Deep-Learning/tree/master/5-Sequence-Models#acknowledgments)
+* [License](https://github.com/chivingtoninc/Coursera-Deep-Learning/tree/master/5-Sequence-Models#license)
 <br/>
 
 ## Usage
