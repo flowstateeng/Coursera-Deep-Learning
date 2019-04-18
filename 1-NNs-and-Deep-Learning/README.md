@@ -43,7 +43,7 @@ Feel free to ask me questions on [GitHub](https://github.com/chivingtoninc), [Tw
 Not currently accepting outside contributors, but feel free to clone, fork, modify and use as you wish.
 
 ## Acknowledgments
-   * Thank you to [Dr. Li](http://vision.stanford.edu/feifeili/), [Andrej Karpathy](https://cs.stanford.edu/people/karpathy/), [Justin Johnson](https://cs.stanford.edu/people/jcjohns/), [Serena Yeung](http://ai.stanford.edu/~syyeung/), and all of the many TA's and other staff who have made this content open to the public!
+   * Thank you to [Andrew Ng](http://vision.stanford.edu/feifeili/), [Geoffrey Hinton](https://ai.google/research/people/GeoffreyHinton), [Pieter Abbeel](https://people.eecs.berkeley.edu/~pabbeel/), [Ian Goodfellow](https://twitter.com/goodfellow_ian), and all others who assisted in providing this quality, inexpensive educational material!
 
 ## License
 This project is licensed under the DO_WHATEVER_YOU_WANT License - see the [LICENSE](https://github.com/chivingtoninc/Coursera-Deep-Learning/blob/master/LICENSE) file for details
