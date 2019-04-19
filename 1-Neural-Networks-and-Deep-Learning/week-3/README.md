@@ -15,4 +15,4 @@ Assignments and projects for week three of [Neural Networks and Deep Learning](h
 
 ## Contents
 This week's content includes the following programming assignments:
-* [Planar-Data-Classification-With-One-Hidden-Layer](https://github.com/chivingtoninc/Coursera-Deep-Learning/tree/master/1-Neural-Networks-and-Deep-Learning/week-3/Planar+data+classification+with+one+hidden+layer+v5)
+* [Planar-Data-Classification-With-One-Hidden-Layer](https://github.com/chivingtoninc/Coursera-Deep-Learning/blob/master/1-Neural-Networks-and-Deep-Learning/week-3/Planar%2Bdata%2Bclassification%2Bwith%2Bone%2Bhidden%2Blayer%2Bv5.ipynb)

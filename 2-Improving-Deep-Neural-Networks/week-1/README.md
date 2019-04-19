@@ -16,6 +16,6 @@ Assignments and projects for week one of [Improving Deep Neural Networks](https:
 
 ## Contents
 This week's content includes the following programming assignments:
-* [Initialization](https://github.com/chivingtoninc/Coursera-Deep-Learning/tree/master/2-Improving-Deep-Neural-Networks/week-1/Initialization.ipynb)
-* [Regularization](https://github.com/chivingtoninc/Coursera-Deep-Learning/tree/master/2-Improving-Deep-Neural-Networks/week-1/Regularization+-+v2.ipynb)
-* [Gradient Checking](https://github.com/chivingtoninc/Coursera-Deep-Learning/tree/master/2-Improving-Deep-Neural-Networks/week-1/Gradient+Checking+v1.ipynb)
+* [Initialization](https://github.com/chivingtoninc/Coursera-Deep-Learning/blob/master/2-Improving-Deep-Neural-Networks/week-1/Initialization.ipynb)
+* [Regularization](https://github.com/chivingtoninc/Coursera-Deep-Learning/blob/master/2-Improving-Deep-Neural-Networks/week-1/Regularization%2B-%2Bv2.ipynb)
+* [Gradient Checking](https://github.com/chivingtoninc/Coursera-Deep-Learning/blob/master/2-Improving-Deep-Neural-Networks/week-1/Gradient%2BChecking%2Bv1.ipynb)

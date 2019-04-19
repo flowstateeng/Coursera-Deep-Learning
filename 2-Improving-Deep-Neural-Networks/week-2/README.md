@@ -12,4 +12,4 @@ Assignments and projects for week two of [Improving Deep Neural Networks](https:
 
 ## Contents
 This week's content includes the following programming assignments:
-* [Optimization](https://github.com/chivingtoninc/Coursera-Deep-Learning/tree/master/2-Improving-Deep-Neural-Networks/week-2/Optimization+methods.ipynb)
+* [Optimization](https://github.com/chivingtoninc/Coursera-Deep-Learning/blob/master/2-Improving-Deep-Neural-Networks/week-2/Optimization%2Bmethods.ipynb)

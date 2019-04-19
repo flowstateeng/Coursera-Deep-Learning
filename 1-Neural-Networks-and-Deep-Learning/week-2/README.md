@@ -16,5 +16,5 @@ Assignments and projects for week two of [Neural Networks and Deep Learning](htt
 
 ## Contents
 This week's content includes the following programming assignments:
-* [Python Basics With Numpy](https://github.com/chivingtoninc/Coursera-Deep-Learning/tree/master/1-Neural-Networks-and-Deep-Learning/week-2/Python+Basics+With+Numpy+v3)
-* [Logistic Regression as a Neural Network](https://github.com/chivingtoninc/Coursera-Deep-Learning/tree/master/1-Neural-Networks-and-Deep-Learning/week-2/Logistic+Regression+with+a+Neural+Network+mindset+v5)
+* [Python Basics With Numpy](https://github.com/chivingtoninc/Coursera-Deep-Learning/blob/master/1-Neural-Networks-and-Deep-Learning/week-2/Logistic%2BRegression%2Bwith%2Ba%2BNeural%2BNetwork%2Bmindset%2Bv5.ipynb)
+* [Logistic Regression as a Neural Network](https://github.com/chivingtoninc/Coursera-Deep-Learning/blob/master/1-Neural-Networks-and-Deep-Learning/week-2/Python%2BBasics%2BWith%2BNumpy%2Bv3.ipynb)
