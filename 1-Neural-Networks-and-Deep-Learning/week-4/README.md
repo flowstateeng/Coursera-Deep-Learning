@@ -15,3 +15,4 @@ Assignments and projects for week four of [Neural Networks and Deep Learning](ht
 ## Contents
 This week's content includes the following programming assignments:
 * [Building-Your-Deep-Neural-Network-Step-By-Step](https://github.com/chivingtoninc/Coursera-Deep-Learning/tree/master/1-NNs-and-Deep-Learning/week-4/Building-Your-Deep-Neural-Network-Step-By-Step)
+* [Deep-Neural-Nertwork-Application](https://github.com/chivingtoninc/Coursera-Deep-Learning/tree/master/1-NNs-and-Deep-Learning/week-4/Deep-Neural-Nertwork-Application)
