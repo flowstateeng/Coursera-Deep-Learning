@@ -2,7 +2,7 @@
   <img height='500' width='500' src='https://github.com/chivingtoninc/Coursera-Deep-Learning/blob/master/imgs/Improving-Deep-Neural-Networks.jpeg' alt='Improving-Deep-Neural-Networks logo' />
 </p>
 
-# Improving Deep Neural Networks
+# [Improving Deep Neural Networks](https://www.coursera.org/learn/deep-neural-network)
 ![Build Status](https://img.shields.io/badge/build-Stable-green.svg)
 ![License](https://img.shields.io/badge/license-DO_WHATEVER_YOU_WANT-green.svg)
 

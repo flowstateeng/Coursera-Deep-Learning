@@ -2,7 +2,7 @@
   <img height='500' width='500' src='https://github.com/chivingtoninc/Coursera-Deep-Learning/blob/master/imgs/Neural-Networks-and-Deep-Learning.png' alt='Neural Networks and Deep Learning logo' />
 </p>
 
-# Neural Networks and Deep Learning
+# [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)
 ![Build Status](https://img.shields.io/badge/build-Stable-green.svg)
 ![License](https://img.shields.io/badge/license-DO_WHATEVER_YOU_WANT-green.svg)
 
