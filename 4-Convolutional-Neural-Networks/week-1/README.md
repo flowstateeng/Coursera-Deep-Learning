@@ -13,5 +13,5 @@ Assignments and projects for week one of [Convolutional Neural Networks](https:/
 
 ## Contents
 This week's content includes the following programming assignments:
-* [Convolution Model: Step-by-Step](https://github.com/chivingtoninc/Coursera-Deep-Learning/tree/master/2-Improving-Deep-Neural-Networks/week-1/Convolution+model+-+Step+by+Step+-+v2)
-* [Convolution Model: Application](https://github.com/chivingtoninc/Coursera-Deep-Learning/tree/master/2-Improving-Deep-Neural-Networks/week-1/Convolution+model+-+Application+-+v1)
+* [Convolution Model: Step-by-Step](https://github.com/chivingtoninc/Coursera-Deep-Learning/tree/master/4-Convolutional-Neural-Networks/week-1/Convolution+model+-+Step+by+Step+-+v2)
+* [Convolution Model: Application](https://github.com/chivingtoninc/Coursera-Deep-Learning/tree/master/4-Convolutional-Neural-Networks/week-1/Convolution+model+-+Application+-+v1)
