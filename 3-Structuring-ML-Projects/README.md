@@ -2,7 +2,7 @@
   <img height='500' width='500' src='https://github.com/chivingtoninc/Coursera-Deep-Learning/blob/master/imgs/Structuring-Machine-Learning-Projects.jpeg' alt='Structuring-Machine-Learning-Projects logo' />
 </p>
 
-# Structuring-Machine-Learning-Projects
+# Structuring Machine Learning Projects
 ![Build Status](https://img.shields.io/badge/build-Stable-green.svg)
 ![License](https://img.shields.io/badge/license-DO_WHATEVER_YOU_WANT-green.svg)
 

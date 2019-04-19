@@ -2,7 +2,7 @@
 ![Build Status](https://img.shields.io/badge/build-Stable-green.svg)
 ![License](https://img.shields.io/badge/license-DO_WHATEVER_YOU_WANT-green.svg)
 
-Assignments and projects for week four of [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning). This is the first course of the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) from [deeplearning.ai](https://www.deeplearning.ai/) on [Coursera](https://www.coursera.org/).
+Assignments and projects for week four of [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning).
 
 ## Learning Objectives
 * See deep neural networks as successive blocks put one after each other
