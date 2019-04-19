@@ -12,5 +12,5 @@ Assignments and projects for week four of [Convolutional Neural Networks](https:
 
 ## Contents
 This week's content includes the following programming assignments:
-* [Art generation with Neural Style Transfer](https://github.com/chivingtoninc/Coursera-Deep-Learning/tree/master/4-Convolutional-Neural-Networks/week-4/Neural-Style-Transfer)
-* [Face Recognition for the Happy House](https://github.com/chivingtoninc/Coursera-Deep-Learning/tree/master/4-Convolutional-Neural-Networks/week-4/Face-Recognition)
+* [Art generation with Neural Style Transfer](https://github.com/chivingtoninc/Coursera-Deep-Learning/tree/master/4-Convolutional-Neural-Networks/week-4/Art+Generation+with+Neural+Style+Transfer+-+v3.ipynb)
+* [Face Recognition for the Happy House](https://github.com/chivingtoninc/Coursera-Deep-Learning/tree/master/4-Convolutional-Neural-Networks/week-4/Face+Recognition+for+the+Happy+House+-+v3.ipynb)

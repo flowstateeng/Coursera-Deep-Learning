@@ -15,5 +15,5 @@ Assignments and projects for week two of [Convolutional Neural Networks](https:/
 
 ## Contents
 This week's content includes the following programming assignments:
-* [Keras Tutorial](https://github.com/chivingtoninc/Coursera-Deep-Learning/tree/master/4-Convolutional-Neural-Networks/week-2/KerasTutorial)
-* [ResNets](https://github.com/chivingtoninc/Coursera-Deep-Learning/tree/master/4-Convolutional-Neural-Networks/week-2/ResNets)
+* [Keras Tutorial](https://github.com/chivingtoninc/Coursera-Deep-Learning/tree/master/4-Convolutional-Neural-Networks/week-2/Keras+-+Tutorial+-+Happy+House+v2.ipynb)
+* [ResNets](https://github.com/chivingtoninc/Coursera-Deep-Learning/tree/master/4-Convolutional-Neural-Networks/week-2/Residual+Networks+-+v2.ipynb)

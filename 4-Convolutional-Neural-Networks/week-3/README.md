@@ -15,4 +15,4 @@ Assignments and projects for week three of [Convolutional Neural Networks](https
 
 ## Contents
 This week's content includes the following programming assignments:
-* [Car detection with YOLOv2](https://github.com/chivingtoninc/Coursera-Deep-Learning/tree/master/4-Convolutional-Neural-Networks/week-3/Car-Detection-For-Autonomous-Driving)
+* [Car detection with YOLOv2](https://github.com/chivingtoninc/Coursera-Deep-Learning/tree/master/4-Convolutional-Neural-Networks/week-3/Autonomous+driving+application+-+Car+detection+-+v3.ipynb)
