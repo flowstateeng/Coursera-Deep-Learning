@@ -22,7 +22,6 @@ We will help you master Deep Learning, understand how to apply it, and build a c
 
 ## Contents
 * [Installation](https://github.com/chivingtoninc/Coursera-Deep-Learning#installation)
-* [Testing](https://github.com/chivingtoninc/Coursera-Deep-Learning#testing)
 * [Usage](https://github.com/chivingtoninc/Coursera-Deep-Learning#usage)
 * [Authors](https://github.com/chivingtoninc/Coursera-Deep-Learning#authors)
 * [Contributing](https://github.com/chivingtoninc/Coursera-Deep-Learning#contributing)
@@ -36,14 +35,6 @@ We will help you master Deep Learning, understand how to apply it, and build a c
   cd /path/to/where/you/want/it
   git clone https://github.com/chivingtoninc/Coursera-Deep-Learning.git
 ```
-
-## Testing
-Navigate to the Coursera-Deep-Learning directory and run.
-```
-  cd /path/to/Coursera-Deep-Learning/some/project
-  python someProject.py
-```
-<br/>
 
 ## Usage
 This repo should be used as a reference while taking the Deep Learning Specialization on Couresera.
@@ -61,7 +52,7 @@ Feel free to ask me questions on [GitHub](https://github.com/chivingtoninc), [Tw
 Not currently accepting outside contributors, but feel free to clone, fork, modify and use as you wish.
 
 ## Acknowledgments
-   * Thank you to [Andrew Ng](http://vision.stanford.edu/feifeili/), [Geoffrey Hinton](https://ai.google/research/people/GeoffreyHinton), [Pieter Abbeel](https://people.eecs.berkeley.edu/~pabbeel/), [Ian Goodfellow](https://twitter.com/goodfellow_ian), and all others who assisted in providing this quality, inexpensive educational material!
+   * Thank you to [Andrew Ng](http://vision.stanford.edu/feifeili/), [Geoffrey Hinton](https://ai.google/research/people/GeoffreyHinton), [Pieter Abbeel](https://people.eecs.berkeley.edu/~pabbeel/), [Ian Goodfellow](https://twitter.com/goodfellow_ian), and all others who assisted in providing this quality, inexpensive educational content!
 
 ## License
 This project is licensed under the DO_WHATEVER_YOU_WANT License - see the [LICENSE](https://github.com/chivingtoninc/Coursera-Deep-Learning/blob/master/LICENSE) file for details
