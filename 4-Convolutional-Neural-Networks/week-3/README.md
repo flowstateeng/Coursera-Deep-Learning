@@ -4,7 +4,6 @@
 
 Assignments and projects for week three of [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks).
 
-*Notice: Currently unable to upload datasets for this week's assignments.*
 
 ## Learning Objectives
 * Understand the challenges of Object Localization, Object Detection and Landmark Finding.
