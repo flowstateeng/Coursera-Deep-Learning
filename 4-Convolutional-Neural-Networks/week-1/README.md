@@ -2,7 +2,7 @@
 ![Build Status](https://img.shields.io/badge/build-Stable-green.svg)
 ![License](https://img.shields.io/badge/license-DO_WHATEVER_YOU_WANT-green.svg)
 
-Assignments and projects for week one of [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?).
+Assignments and projects for week one of [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks).
 
 ## Learning Objectives
 * Understand the convolution operation.
