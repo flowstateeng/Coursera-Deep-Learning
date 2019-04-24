@@ -14,4 +14,4 @@ Assignments and projects for week one of [Sequence Models](https://www.coursera.
 
 ## Contents
 This week's content includes the following programming assignments:
-* [Building a Recurrent Neural Network - Step by Step](https://github.com/chivingtoninc/Coursera-Deep-Learning/blob/master/4-Convolutional-Neural-Networks/week-1/Building%2Ba%2BRecurrent%2BNeural%2BNetwork%2B-%2BStep%2Bby%2BStep%2B-%2Bv3.ipynb)
+* [Building a Recurrent Neural Network - Step by Step](https://github.com/chivingtoninc/Coursera-Deep-Learning/blob/master/5-Sequence-Models/week-1/Building%2Ba%2BRecurrent%2BNeural%2BNetwork%2B-%2BStep%2Bby%2BStep%2B-%2Bv3.ipynb)
