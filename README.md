@@ -2,7 +2,7 @@
   <img src='https://github.com/chivingtoninc/Coursera-Deep-Learning/blob/master/imgs/deeplearning-logo.png' alt='deeplearning.ai logo' />
 </p>
 
-# Coursera-Deep-Learning
+# [Coursera-Deep-Learning](https://www.coursera.org/specializations/deep-learning)
 Assignments and projects for all five courses of the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) from [deeplearning.ai's](https://www.deeplearning.ai/) on [Coursera](https://www.coursera.org/).
 
 ![Build Status](https://img.shields.io/badge/build-Stable-green.svg)
