@@ -40,6 +40,8 @@ This repo should be used as a reference while taking the Deep Learning Specializ
 
 Familiarity with general Python is assumed. Numpy is covered but if you'd like more a in-depth refresher, here is a great [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/) by [Justin Johnson](https://cs.stanford.edu/people/jcjohns/).
 
+Note: the programming assignments for these courses will not run locally. I have not included the datasets, due to their sizes. This repo is solely for reference purposes only.
+
 Feel free to ask me questions on [GitHub](https://github.com/chivingtoninc), [Twitter](https://twitter.com/chivingtoninc), [Facebook](https://facebook.com/chivingtoninc) or [LinkedIn](https://www.linkedin.com/in/johnathan-chivington/)
 <br/><br/>
 
